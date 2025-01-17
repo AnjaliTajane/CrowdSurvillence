@@ -1,7 +1,7 @@
 django
 opencv-python
 django
-clip
+open-clip-torch
 packaging
 Pillow
 pygame
