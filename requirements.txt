@@ -1,9 +1,0 @@
-django
-opencv-python
-django
-clip
-packaging
-Pillow
-pygame
-argparse
-torchvision
