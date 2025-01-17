@@ -6,9 +6,4 @@ packaging
 Pillow
 pygame
 argparse
-threading
-<<<<<<< HEAD
 torchvision
-=======
-torchvision
->>>>>>> 879fe3ed474421865791cb73df566eda90d817e4
