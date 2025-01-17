@@ -1,9 +1,9 @@
 django
 opencv-python
 django
-open-clip-torch
 packaging
 Pillow
 pygame
 argparse
 torchvision
+git+https://github.com/openai/CLIP.git
