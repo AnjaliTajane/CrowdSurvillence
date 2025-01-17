@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  font-family: "Caveat", cursive !important;
+}
+.register,
+.login {
+  height: 600px;
+}
+
+#home {
+  height: 100vh;
+  width: 100%;
+}
+#home video {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+nav {
+  font-family: "Caveat", cursive !important;
+  z-index: 99;
+}
+nav li {
+  color: rgb(99, 99, 99);
+}
+nav li:hover {
+  color: black;
+}
+.main-heading {
+  font-family: "Caveat", cursive !important;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 100px;
+  background-color: rgba(255, 255, 255, 0.259);
+  backdrop-filter: blur(10px);
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
